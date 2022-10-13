@@ -38,113 +38,122 @@
 
 <h3 align="left">🛠 Languages and Tools:</h3>
 
-<p align="center">
+<p align="left">
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/rabinkaspal/rabinkaspal/main/ghicons/html.png"
             alt="javascript"
-            width="120"
-            height="120"
+            width="45"
+            height="45"
     /></a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/rabinkaspal/rabinkaspal/main/ghicons/css.png"
             alt="javascript"
-            width="120"
-            height="120"
+            width="45"
+            height="45"
     /></a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/rabinkaspal/rabinkaspal/main/ghicons/javascript.png"
             alt="javascript"
-            width="120"
-            height="120"
+            width="45"
+            height="45"
     /></a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/rabinkaspal/rabinkaspal/main/ghicons/typescript.png"
             alt="javascript"
-            width="120"
-            height="120"
+            width="45"
+            height="45"
     /></a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/rabinkaspal/rabinkaspal/main/ghicons/react.png"
             alt="javascript"
-            width="120"
-            height="120"
+            width="45"
+            height="45"
     /></a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/rabinkaspal/rabinkaspal/main/ghicons/nextjs.png"
             alt="javascript"
-            width="120"
-            height="120"
+            width="45"
+            height="45"
     /></a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/rabinkaspal/rabinkaspal/main/ghicons/redux.png"
             alt="javascript"
-            width="120"
-            height="120"
+            width="45"
+            height="45"
     /></a>
+     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img
+            src="https://raw.githubusercontent.com/rabinkaspal/rabinkaspal/main/ghicons/nodejs.png"
+            alt="javascript"
+            width="45"
+            height="45"
+    /></a>
+</p>
+<p align="left">
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/rabinkaspal/rabinkaspal/main/ghicons/firebase.png"
             alt="javascript"
-            width="120"
-            height="120"
+            width="45"
+            height="45"
     /></a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/rabinkaspal/rabinkaspal/main/ghicons/mongodb.png"
             alt="javascript"
-            width="120"
-            height="120"
+            width="45"
+            height="45"
     /></a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/rabinkaspal/rabinkaspal/main/ghicons/heroku.png"
             alt="javascript"
-            width="120"
-            height="120"
-    /></a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+            width="45"
+            height="45"
+    /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img
-            src="https://raw.githubusercontent.com/rabinkaspal/rabinkaspal/main/ghicons/nodejs.png"
+            src="https://raw.githubusercontent.com/rabinkaspal/rabinkaspal/main/ghicons/netlify.png"
             alt="javascript"
-            width="120"
-            height="120"
-    /></a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/rabinkaspal/rabinkaspal/main/ghicons/git.png"
-            alt="javascript"
-            width="120"
-            height="120"
-    /></a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/rabinkaspal/rabinkaspal/main/ghicons/figma.png"
-            alt="javascript"
-            width="120"
-            height="120"
+            width="45"
+            height="45"
     /></a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/rabinkaspal/rabinkaspal/main/ghicons/mui.png"
             alt="javascript"
-            width="120"
-            height="120"
+            width="45"
+            height="45"
     /></a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/rabinkaspal/rabinkaspal/main/ghicons/tailwind.png"
             alt="javascript"
-            width="120"
-            height="120"
+            width="45"
+            height="45"
+    /></a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img
+            src="https://raw.githubusercontent.com/rabinkaspal/rabinkaspal/main/ghicons/git.png"
+            alt="javascript"
+            width="45"
+            height="45"
+    /></a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img
+            src="https://raw.githubusercontent.com/rabinkaspal/rabinkaspal/main/ghicons/figma.png"
+            alt="javascript"
+            width="45"
+            height="45"
     /></a>
 </p>
+
 
 <p>
     <img
