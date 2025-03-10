@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Rabin Kaspal</h1>
 <h3 align="center">A frontend engineer living in Sydney</h3>
 
-
-
 <ul>
     <li>
         🌱 I work on <strong>NextJS, React, Typescript, GraphQL</strong>
@@ -18,7 +16,7 @@
     <li>
         📄 See my resume
         <a
-            href="https://github.com/labnol/files/hello.pdf"
+            href="https://raw.githubusercontent.com/rabinkaspal/rabinkaspal/main/files/Software Engineer - Rabin Kaspal.docx"
             >Resume
         </a>
     </li>
@@ -154,7 +152,6 @@
     /></a>
 </p>
 
-
 <p>
     <img
         align="center"
@@ -162,7 +159,6 @@
         alt="rabinkaspal"
     />
 </p>
-
 
 <p align="right">
     <img
