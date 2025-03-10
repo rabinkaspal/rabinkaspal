@@ -1,24 +1,24 @@
 <img src="https://raw.githubusercontent.com/rabinkaspal/rabinkaspal/main/cover-sm.png"/>
 <h1 align="center">Hi 👋, I'm Rabin Kaspal</h1>
-<h3 align="center">A passionate frontend developer living in Sydney</h3>
+<h3 align="center">A frontend engineer living in Sydney</h3>
 
 
 
 <ul>
     <li>
-        🌱 I’m currently learning <strong>NextJS,React, GraphQL, Gatsby</strong>
+        🌱 I work on <strong>NextJS, React, Typescript, GraphQL</strong>
     </li>
     <li>
         👨‍💻 All of my projects are available at <a href="portfolio">Portfolio</a>
     </li>
     <li>
         📫 How to reach me
-        <a href="mailto:rabin@gmail.com">Email Me</a>
+        <a href="mailto:rabinkaspal@gmail.com">Email Me</a>
     </li>
     <li>
         📄 See my resume
         <a
-            href="[mailto:rabin@gmail.com](https://github.com/labnol/files/hello.pdf)"
+            href="https://github.com/labnol/files/hello.pdf"
             >Resume
         </a>
     </li>
