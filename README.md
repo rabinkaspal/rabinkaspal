@@ -169,16 +169,16 @@
         <img
             src="https://raw.githubusercontent.com/rabinkaspal/rabinkaspal/main/projects/jira-board/screenshot.png"
             alt="Jira task board"
-            width="500"
-            height="250"
+            width="250"
+            height="150"
     /></a>
     <h6>NextJS ecommerce with Stripe</h6>
     <a href="https://nextjs-ecommerce-rk.vercel.app/" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/rabinkaspal/rabinkaspal/main/projects/nextjs-ecommerce/screenshot.png"
             alt="Next js sample ecommerce with stripe"
-            width="500"
-            height="250"
+            width="250"
+            height="150"
     /></a>
 </p>
 
@@ -188,16 +188,16 @@
         <img
             src="https://raw.githubusercontent.com/rabinkaspal/rabinkaspal/main/projects/react-wordle/screenshot.png"
             alt="React wordle clone"
-            width="500"
-            height="300"
+            width="250"
+            height="150"
     /></a>
     <h6>React Firbase recipe</h6>
     <a href="https://react-firebase-41ffc.web.app/" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/rabinkaspal/rabinkaspal/main/projects/react-firebase/screenshot.png"
             alt="React Firbase Recipe cookbook"
-            width="500"
-            height="250"
+            width="250"
+            height="150"
     /></a>
 </p> 
 <hr/>
