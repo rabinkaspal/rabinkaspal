@@ -164,48 +164,41 @@
 <h3 align="left"> 💻 Hobby projects</h3>
 
 <p align="left">
-    <a href="https://jira-taskboard-rk.netlify.app/projects/zIXIV3QWiM7moGfyzIEB" target="_blank" rel="noreferrer">
-    <div>
     <h6>React Task Board </h6>
+    <a href="https://jira-taskboard-rk.netlify.app/projects/zIXIV3QWiM7moGfyzIEB" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/rabinkaspal/rabinkaspal/main/projects/jira-board/screenshot.png"
             alt="Jira task board"
             width="500"
             height="250"
     /></a>
-    </div>
-    <a href="https://nextjs-ecommerce-rk.vercel.app/" target="_blank" rel="noreferrer">
-    <div>
     <h6>NextJS ecommerce with Stripe</h6>
+    <a href="https://nextjs-ecommerce-rk.vercel.app/" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/rabinkaspal/rabinkaspal/main/projects/nextjs-ecommerce/screenshot.png"
             alt="Next js sample ecommerce with stripe"
             width="500"
             height="250"
-    /></a></div>
+    /></a>
 </p>
 
 <p align="left">
-    <a href="https://reactwordle-rk.netlify.app/" target="_blank" rel="noreferrer">
-    <div>
         <h6>React Worlde Clone</h6>
+    <a href="https://reactwordle-rk.netlify.app/" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/rabinkaspal/rabinkaspal/main/projects/react-wordle/screenshot.png"
             alt="React wordle clone"
             width="500"
             height="300"
     /></a>
-    </div>
-    <a href="https://react-firebase-41ffc.web.app/" target="_blank" rel="noreferrer">
-    <div>
     <h6>React Firbase recipe</h6>
+    <a href="https://react-firebase-41ffc.web.app/" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/rabinkaspal/rabinkaspal/main/projects/react-firebase/screenshot.png"
             alt="React Firbase Recipe cookbook"
             width="500"
             height="250"
     /></a>
-    </div>
 </p> 
 <hr/>
 
