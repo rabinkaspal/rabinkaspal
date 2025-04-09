@@ -7,24 +7,17 @@
         🌱 I work on <strong>NextJS, React, Typescript, GraphQL</strong>
     </li>
     <li>
-        👨‍💻 All of my projects are available at <a href="portfolio">Portfolio</a>
+        👨‍💻 All of my projects are available at <a href="#">Portfolio</a>
     </li>
     <li>
         📫 How to reach me
         <a href="mailto:rabinkaspal@gmail.com">Email Me</a>
     </li>
-    <li>
-        📄 See my resume
-        <a
-            href="https://raw.githubusercontent.com/rabinkaspal/rabinkaspal/main/files/Software Engineer - Rabin Kaspal.docx"
-            >Resume
-        </a>
-    </li>
 </ul>
-
+<hr/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/rabinkaspal" target="blank"
+    <a href="https://linkedin.com/in/rabinkaspal" target="_blank"
         ><img
             align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -33,124 +26,177 @@
             width="40"
     /></a>
 </p>
-
+<hr/>
 <h3 align="left">🛠 Languages and Tools:</h3>
 
 <p align="left">
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <a href="#" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/rabinkaspal/rabinkaspal/main/ghicons/html.png"
-            alt="javascript"
+            alt="html"
+            title="html"
             width="45"
             height="45"
     /></a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <a href="#" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/rabinkaspal/rabinkaspal/main/ghicons/css.png"
-            alt="javascript"
+            alt="css"
+            title="css"
             width="45"
             height="45"
     /></a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <a href="#" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/rabinkaspal/rabinkaspal/main/ghicons/javascript.png"
             alt="javascript"
+            title="javascript"
             width="45"
             height="45"
     /></a>
-      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+      <a href="#" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/rabinkaspal/rabinkaspal/main/ghicons/typescript.png"
-            alt="javascript"
+            alt="typescript"
+            title="typescript"
             width="45"
             height="45"
     /></a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <a href="#" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/rabinkaspal/rabinkaspal/main/ghicons/react.png"
-            alt="javascript"
+            alt="react"
+            title="react"
             width="45"
             height="45"
     /></a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <a href="#" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/rabinkaspal/rabinkaspal/main/ghicons/nextjs.png"
-            alt="javascript"
+            alt="nextjs"
+            title="nextjs"
             width="45"
             height="45"
     /></a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <a href="#" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/rabinkaspal/rabinkaspal/main/ghicons/redux.png"
-            alt="javascript"
+            alt="redux, redux toolkit, redux saga"
+            title="redux, redux toolkit, redux saga"
             width="45"
             height="45"
     /></a>
-     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+     <a href="#" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/rabinkaspal/rabinkaspal/main/ghicons/nodejs.png"
-            alt="javascript"
+            alt="nodejs"
+            title="nodejs"
             width="45"
             height="45"
     /></a>
 </p>
 <p align="left">
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <a href="#" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/rabinkaspal/rabinkaspal/main/ghicons/firebase.png"
-            alt="javascript"
+            alt="firebase"
+            title="firebase"
             width="45"
             height="45"
     /></a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <a href="#" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/rabinkaspal/rabinkaspal/main/ghicons/mongodb.png"
-            alt="javascript"
+            alt="mongodb"
+            title="mongodb"
             width="45"
             height="45"
     /></a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <a href="#" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/rabinkaspal/rabinkaspal/main/ghicons/heroku.png"
-            alt="javascript"
+            alt="heroku"
+            title="heroku"
             width="45"
             height="45"
-    /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    /></a><a href="#" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/rabinkaspal/rabinkaspal/main/ghicons/netlify.png"
-            alt="javascript"
+            alt="netlify"
+            title="netlify"
             width="45"
             height="45"
     /></a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <a href="#" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/rabinkaspal/rabinkaspal/main/ghicons/mui.png"
-            alt="javascript"
+            alt="Material UI"
+            title="Material UI"
             width="45"
             height="45"
     /></a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <a href="#" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/rabinkaspal/rabinkaspal/main/ghicons/tailwind.png"
-            alt="javascript"
+            alt="Tailwind Css"
+            title="Tailwind Css"
             width="45"
             height="45"
     /></a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <a href="#" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/rabinkaspal/rabinkaspal/main/ghicons/git.png"
-            alt="javascript"
+            alt="git"
+            title="git"
             width="45"
             height="45"
     /></a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <a href="#" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/rabinkaspal/rabinkaspal/main/ghicons/figma.png"
-            alt="javascript"
+            alt="figma"
+            title="figma"
             width="45"
             height="45"
     /></a>
 </p>
+<hr/>
+<h3 align="left"> 💻 Hobby projects</h3>
+
+<p align="left">
+    <a href="https://jira-taskboard-rk.netlify.app/projects/zIXIV3QWiM7moGfyzIEB" target="_blank" rel="noreferrer">
+        <img
+            src="https://raw.githubusercontent.com/rabinkaspal/rabinkaspal/main/projects/jira-board/screenshot.png"
+            alt="Jira task board"
+            width="50%"
+            height="250"
+    /></a>
+    <a href="#" target="_blank" rel="noreferrer">
+        <img
+            src="https://raw.githubusercontent.com/rabinkaspal/rabinkaspal/main/projects/nextjs-ecommerce/screenshot.png"
+            alt="Next js sample ecommerce with stripe"
+            width="50%"
+            height="250"
+    /></a>
+</p>
+
+<p align="left">
+    <a href="https://jira-taskboard-rk.netlify.app/projects/zIXIV3QWiM7moGfyzIEB" target="_blank" rel="noreferrer">
+        <img
+            src="https://raw.githubusercontent.com/rabinkaspal/rabinkaspal/main/projects/react-wordle/screenshot.png"
+            alt="React wordle clone"
+            width="50%"
+            height="250"
+    /></a>
+    <a href="#" target="_blank" rel="noreferrer">
+        <img
+            src="https://raw.githubusercontent.com/rabinkaspal/rabinkaspal/main/projects/react-firebase/screenshot.png"
+            alt="React Firbase Recipe cookbook"
+            width="50%"
+            height="250"
+    /></a>
+</p> 
+<hr/>
 
 <p>
     <img
