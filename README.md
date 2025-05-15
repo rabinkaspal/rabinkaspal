@@ -161,6 +161,10 @@
     /></a>
 </p>
 <hr/>
+
+### ✨ LLMs, Vector Embeddings, Retreival
+[Langchain ChatBot](https://langchain-chatbot.netlify.app/)   |   [Recipe Finder](https://vector-search-mongodb.vercel.app/)
+
 <h3 align="left"> 💻 Hobby projects</h3>
 
 <p align="left">
