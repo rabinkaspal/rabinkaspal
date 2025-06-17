@@ -1,3 +1,10 @@
+<style>
+    .red{
+        background: red;
+        color: red;
+        font-size: 50px;
+    }
+    </style>
 <img src="https://raw.githubusercontent.com/rabinkaspal/rabinkaspal/main/cover-sm.png"/>
 <h1 align="center">Hi 👋, I'm Rabin Kaspal</h1>
 <h3 align="center">A frontend engineer living in Sydney</h3>
@@ -29,7 +36,7 @@
 <hr/>
 <h3 align="left">🛠 Languages and Tools:</h3>
 
-<p align="left">
+<p align="left" class='red'>
     <a href="#" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/rabinkaspal/rabinkaspal/main/ghicons/html.png"
