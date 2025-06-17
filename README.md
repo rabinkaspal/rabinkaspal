@@ -195,14 +195,6 @@
             width="250"
             height="150"
     /></a>
-    <h6>React Firbase recipe</h6>
-    <a href="https://react-firebase-41ffc.web.app/" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/rabinkaspal/rabinkaspal/main/projects/react-firebase/screenshot.png"
-            alt="React Firbase Recipe cookbook"
-            width="250"
-            height="150"
-    /></a>
 </p> 
 <hr/>
 
