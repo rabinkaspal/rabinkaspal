@@ -1,20 +1,10 @@
-<style>
-    .red{
-        background: red;
-        color: red;
-        font-size: 50px;
-    }
-    </style>
 <img src="https://raw.githubusercontent.com/rabinkaspal/rabinkaspal/main/cover-sm.png"/>
 <h1 align="center">Hi 👋, I'm Rabin Kaspal</h1>
-<h3 align="center">A frontend engineer living in Sydney</h3>
+<h3 align="center">Software Engineer living in Sydney</h3>
 
 <ul>
     <li>
         🌱 I work on <strong>NextJS, React, Typescript, GraphQL</strong>
-    </li>
-    <li>
-        👨‍💻 All of my projects are available at <a href="#">Portfolio</a>
     </li>
     <li>
         📫 How to reach me
@@ -36,7 +26,7 @@
 <hr/>
 <h3 align="left">🛠 Languages and Tools:</h3>
 
-<p align="left" class='red'>
+<p align="left" >
     <a href="#" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/rabinkaspal/rabinkaspal/main/ghicons/html.png"
@@ -170,7 +160,13 @@
 <hr/>
 
 ### ✨ LLMs, Vector Embeddings, Retreival
-[Langchain ChatBot](https://langchain-chatbot.netlify.app/)   |   [Recipe Finder](https://vector-search-mongodb.vercel.app/)
+#### Langchain chatbot
+[Langchain ChatBot](https://langchain-chatbot.netlify.app/) 
+
+#### Semantic Search, RAG, Vector database, embeddings
+[Recipe Finder](https://vector-search-mongodb.vercel.app/)
+
+#
 
 <h3 align="left"> 💻 Hobby projects</h3>
 
